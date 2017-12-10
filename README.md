@@ -3,6 +3,8 @@
 ## Description
 A tool for accessing all of an individual's top songs, recently played songs, and playlists on Spotify. It provides convenient access to music metadata, including tempo, loudness, and number of plays. All this data is exported as a CSV, able to be imported into any data analysis program like Excel.
 
+![Screenshot](/Examples/spotify_data.png)
+
 ## How to use?
 python spotify.py username
 
