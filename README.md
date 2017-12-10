@@ -11,8 +11,8 @@ python spotify.py username
 Because it was made using functional programming, you can modify the tool to suit your data collection needs! See the Spotify API Endpoints for the data you can collect.
 
 The functions I have created are:
+- my_top_tracks(username,N) => see N top tracks outputted in Excel and their attributes
+- tracks_by_time(username,N) => see the timestamps for your past N tracks outputted in Excel and their attributes
+- read_dailyMix(username) => see the songs in your daily mix and their attributes
 
-my_top_tracks(username,N) => see N top tracks outputted in Excel and their attributes
-tracks_by_time(username,N) => see the timestamps for your past N tracks outputted in Excel and their attributes
-read_dailyMix(username) => see the songs in your daily mix and their attributes
 Feel free to use these, comment them out, or create your own!
